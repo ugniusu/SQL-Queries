@@ -2,6 +2,8 @@
 
 This repository contains SQL tasks related to employee job data extraction and reporting. The tasks are divided into two parts: **JOB1** and **JOB2**.
 
+The solution was built and validated on a local setup running MySQL under XAMPP, enabling efficient testing and data management
+
 ---
 
 ## JOB1: Retrieve the Most Recent Active Job Record for a Specific Employee
@@ -32,4 +34,10 @@ The second part of JOB2 also generates a summary list of all job record IDs (EMP
 - **JOB1** targets one employee, returning their most recent active job record.
 - **JOB2** handles all employees, returning their latest active job records along with personal details and a summary of their job records.
 
-This documentation aims to help users understand the purpose and scope of the SQL tasks in this project.
+---
+
+## Queries
+
+All SQL queries related to this project are available in the file linked below.  
+You can easily access, copy, and run them by clicking the link:  
+[SQL Queries](https://github.com/ugniusu/SQL-Queries/blob/main/sql_queries.sql)
